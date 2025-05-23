@@ -1,0 +1,4 @@
+Question,Response
+What is AI?,AI stands for Artificial Intelligence. It refers to machines that mimic human intelligence.
+What is LangChain?,LangChain is a Python framework for building apps with language models.
+What is RAG?,RAG stands for Retrieval-Augmented Generation. It uses external data to improve responses.
